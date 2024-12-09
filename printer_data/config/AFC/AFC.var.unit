@@ -37,8 +37,8 @@
             "weight": 0,
             "command": null,
             "index": 4,
-            "tool_loaded": false,
-            "hub_loaded": false
+            "tool_loaded": true,
+            "hub_loaded": true
         }
     }
 }
